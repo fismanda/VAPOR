@@ -26,10 +26,9 @@ It allows deterministic and stochastic simulations, including:
 
 ## Repository Contents
 
-- `vapor_deterministic.R`: Deterministic single-compartment simulations with route attribution
-- `vapor_single_gen_stochastic.R`: Single-generation stochastic simulations and comparisons to deterministic R₀
-- `vapor_full_stochastic.R`: Full transmission simulation with k estimation, NB fits, and visualizations
-- `vapor_patch_model.R`: Multi-room (meta-population) stochastic outbreak simulations
+- `Annotated deterministic single patch.R`: Deterministic single-compartment simulations with route attribution
+- `Annotated stochastic including comparison with deterministic.R`: Stochastic simulations and comparisons to deterministic R₀
+- `Multi-patch stochastic VAPOR.R`: Multi-room (meta-population) stochastic outbreak simulations
 - `VAPOR4.docx`: Full manuscript
 
 ---
