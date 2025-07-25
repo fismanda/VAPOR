@@ -44,3 +44,8 @@ library(ggplot2)
 library(patchwork)
 library(tidyr)
 library(dplyr)
+```
+
+## How to Cite
+
+Fisman DN et al. Ventilation-Aware Pandemic and Outbreak Risk (VAPOR) Model. University of Toronto, 2025. DOI: 10.5281/zenodo.16422619
